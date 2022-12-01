@@ -114,15 +114,8 @@ body {
 }
 .skills li{
   min-height: 20vh;
-  /* background-color: pink;
-  border-right: 1px solid black; */
 }
-.skills li> img{
-/* background-color: blue; */
-/* width: 20%; */
-/* min-height: 20vh; */
 
-}
 @media (max-width: 770px) {
   .projects-container {
     flex-direction: column;
