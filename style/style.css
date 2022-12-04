@@ -168,3 +168,19 @@ body {
 .footer li a {
   color: #fff;
 }
+@media (max-width:425px) {
+  .footer ul {
+    width: 100%;
+  }
+  .footer li {
+    font-size: 1.1rem;
+  }
+}
+@media (max-width:375px) {
+  .name-option {
+    margin: 3rem auto;
+  }
+  .title{
+    text-align: center;
+  }
+}
