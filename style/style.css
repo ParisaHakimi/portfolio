@@ -50,6 +50,7 @@ body {
   letter-spacing: 0.2rem;
   font-size: 2rem;
 }
+
 @media (max-width: 603px) {
   .about .pari {
     width: 25%;
@@ -112,7 +113,7 @@ body {
 .single-project .btn-group a {
   width: 10%;
 }
-.skills li{
+.skills li {
   min-height: 20vh;
 }
 
@@ -168,7 +169,7 @@ body {
 .footer li a {
   color: #fff;
 }
-@media (max-width:425px) {
+@media (max-width: 425px) {
   .footer ul {
     width: 100%;
   }
@@ -176,11 +177,11 @@ body {
     font-size: 1.1rem;
   }
 }
-@media (max-width:375px) {
+@media (max-width: 375px) {
   .name-option {
     margin: 3rem auto;
   }
-  .title{
+  .title {
     text-align: center;
   }
 }
